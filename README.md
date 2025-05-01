@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es el primero y de practica.
+Estoy practicando y haciendo cambios.
